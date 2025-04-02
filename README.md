@@ -5,14 +5,14 @@ to run the application run the following commands
 this appication consist of frontend, backent , tailwindcss
 
 ## Run below the tailwindcss commands in vs code terminal
-     => cd my-app
-     => npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
+     cd my-app
+     npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
    
 ## Running the back-end:
-     connect the backend with mogodb reference url in .env file then run the following command
-     => cd backend
-     => node server.js
+     # To connect the backend with mogodb reference url in .env file then run the following command
+     cd backend
+     node server.js
 ## Finally running the front-end:
      run the following command
-     => cd my-app
-     => npm start
+     cd my-app
+     npm start
