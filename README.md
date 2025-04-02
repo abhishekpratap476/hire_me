@@ -9,7 +9,7 @@ this appication consist of frontend, backent , tailwindcss
      npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
    
 ## Running the back-end:
-     # To connect the backend with mogodb reference url in .env file then run the following command
+     //To connect the backend with mogodb reference url in .env file then run the following command//
      cd backend
      node server.js
 ## Finally running the front-end:
