@@ -13,6 +13,6 @@ this appication consist of frontend, backent , tailwindcss
      cd backend
      node server.js
 ## Finally running the front-end:
-     run the following command
+     //run the following command
      cd my-app
      npm start
