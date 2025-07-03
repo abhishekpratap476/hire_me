@@ -2,7 +2,7 @@
 an online service hiering website
 to run the application run the following commands
   -> npm install   //to install dependencies related to code
-this appication consist of frontend, backent , tailwindcss
+this application consist of frontend, backent , tailwindcss
 
 ## Run the below tailwindcss commands in vs code terminal
      cd my-app
